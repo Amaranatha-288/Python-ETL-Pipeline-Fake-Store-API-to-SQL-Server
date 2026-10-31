@@ -1,5 +1,5 @@
 # Python-ETL-Pipeline-Fake-Store-API-to-SQL-Server
-# Python ETL Pipeline | Fake Store API to SQL Server
+
 
 ## 📌 Project Overview
 
